@@ -1,0 +1,5 @@
+**
+!jobs/*.ctmpl
+!*.sh
+!consul-template.conf
+!consul_kv_export.json
